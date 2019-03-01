@@ -2,7 +2,7 @@
 
 A simulation for a village tour. 
 
-Aiming to work out concurrency problem.
+Aiming to simulate concurrency problem.
 
 Each component can only have one tour.
 
@@ -11,3 +11,13 @@ Each component can only have one tour.
 * One cable car
 
 * Trains between each village
+
+## Running
+
+```
+javac main.java
+```
+
+```
+java main
+```
