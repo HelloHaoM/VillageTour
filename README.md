@@ -14,7 +14,7 @@ Each component can only have one tour.
 
 ## Prerequisites
 
-JAVA
+* Java
 
 ## Running
 
